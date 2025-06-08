@@ -58,8 +58,8 @@ GloboWatch is an innovative application designed to streamline traffic monitorin
 
 ## Documentation
 - [Installation Guide](./docs/installation.md)
-- [API Reference](./docs/api-reference.md) (Coming soon)
-- [Contribution Guide](./docs/contributing.md) (Coming soon)
+- [API Reference](./docs/api-reference.md)
+- [Contribution Guide](./docs/contributing.md)
 
 ## License
 This project is licensed under the MIT License.
