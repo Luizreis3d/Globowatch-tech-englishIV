@@ -14,12 +14,6 @@
   overflow-y: auto;
 }
 
-.sidebar h2 {
-  font-size: 1.5em;
-  margin-bottom: 20px;
-  text-align: center;
-}
-
 .sidebar ul {
   list-style: none;
   padding: 0;
@@ -42,8 +36,16 @@
   border-radius: 4px;
 }
 
+.sidebar ul li a.sidebar-title {
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 5px 10px;
+  margin-bottom: 20px;
+  text-align: left; /* Alinhado à esquerda */
+}
+
 .main-content {
-  margin-left: 300px; /* Aumentado de 270px para 300px para mais espaçamento */
+  margin-left: 300px;
   padding: 20px;
   background-color: #f9f9f9;
   flex: 1;

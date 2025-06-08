@@ -9,8 +9,8 @@
 <body>
   <div class="container">
     <nav class="sidebar">
-      <h2>GloboWatch API</h2>
       <ul>
+        <li><a href="#" class="sidebar-title">GloboWatch API</a></li>
         <li><a href="#" data-file="README.md">README</a></li>
         <li><a href="#" data-file="installation.md">Installation Guide</a></li>
         <li><a href="#" data-file="api-reference.md">API Reference</a></li>
@@ -18,7 +18,7 @@
       </ul>
     </nav>
     <main class="main-content">
-      <h1 id="section-title"></h1> <!-- Título dinâmico -->
+      <h1 id="section-title"></h1>
       <div id="content-section">
         <!-- Content will be loaded here -->
       </div>
@@ -48,8 +48,10 @@
         const sectionTitle = document.getElementById('section-title');
         let url = file === 'README.md' ? `./${file}` : `../docs/${file}`;
 
-        // Set the section title based on the link text
-        sectionTitle.textContent = link.textContent;
+        // Set the section title based on the link text, only for data-file links
+        if (file) {
+          sectionTitle.textContent = link.textContent;
+        }
 
         fetch(url)
           .then(response => {
