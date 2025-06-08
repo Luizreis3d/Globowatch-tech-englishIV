@@ -57,7 +57,7 @@ GloboWatch is an innovative application designed to streamline traffic monitorin
 4. Open `http://localhost:3000` in your browser and log in with credentials (e.g., admin/admin).
 
 ## Documentation
-- [Installation Guide](./docs/installation.md) (Coming soon)
+- [Installation Guide](./docs/installation.md)
 - [API Reference](./docs/api-reference.md) (Coming soon)
 - [Contribution Guide](./docs/contributing.md) (Coming soon)
 
