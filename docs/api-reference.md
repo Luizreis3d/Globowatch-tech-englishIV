@@ -1,5 +1,3 @@
-# GloboWatch API Reference
-
 ## Introduction
 The GloboWatch API provides endpoints to control camera monitoring and retrieve real-time traffic data for Recife. Integrated with a React frontend and backed by two Python services using MongoDB Atlas, the API enables automated camera switching and traffic analysis, reducing operator workload and enhancing situational awareness.
 

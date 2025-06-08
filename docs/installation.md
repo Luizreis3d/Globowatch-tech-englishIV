@@ -1,5 +1,3 @@
-# GloboWatch Installation Guide
-
 ## Introduction
 This guide provides comprehensive instructions to install and run GloboWatch, an application for voice-activated camera switching and real-time traffic monitoring in Recife. With a React frontend and two Python backends integrated with MongoDB Atlas, GloboWatch automates camera operations to reduce operator workload, ensuring a reliable and user-friendly experience.
 

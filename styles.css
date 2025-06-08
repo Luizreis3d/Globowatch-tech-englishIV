@@ -43,7 +43,7 @@
 }
 
 .main-content {
-  margin-left: 270px;
+  margin-left: 300px; /* Aumentado de 270px para 300px para mais espaçamento */
   padding: 20px;
   background-color: #f9f9f9;
   flex: 1;

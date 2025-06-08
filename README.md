@@ -1,4 +1,4 @@
-# GloboWatch
+## Introduction
 
 GloboWatch is an innovative application designed to streamline traffic monitoring in Recife by automating camera switching through voice commands and providing real-time traffic data. Built with a React frontend and two Python backends integrated with MongoDB Atlas, it reduces operator workload, enhances safety with a redundant system, and aligns with Grupo Globo’s visual identity for a user-friendly desktop experience.
 

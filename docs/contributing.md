@@ -1,5 +1,3 @@
-# Contributing to GloboWatch
-
 ## Introduction
 Thank you for your interest in contributing to GloboWatch! This application automates camera switching through voice commands and provides real-time traffic data for Recife, using a React frontend and Python backends with MongoDB Atlas. Your contributions can enhance functionality, improve usability, or fix issues, making traffic monitoring more efficient and reliable.
 
