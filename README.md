@@ -8,7 +8,7 @@ GloboWatch is an innovative application designed to streamline traffic monitorin
 - **Luiz Reis**: Documentation and presentation preparation
 - **Frontend development by others from the original team**
 
-*Note*: Our team consists of three members due to project constraints. Tasks were efficiently divided to meet all requirements, with each member taking on multiple roles.
+**Note:** Our team consists of three members due to project constraints. Tasks were efficiently divided to meet all requirements, with each member taking on multiple roles.
 
 ## Problem and Solution
 **Problem**: Manual camera switching in traffic monitoring systems overloads operators, who juggle multiple tasks simultaneously, leading to inefficiencies and potential errors.
